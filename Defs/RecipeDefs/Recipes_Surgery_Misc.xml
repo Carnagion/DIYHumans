@@ -7,13 +7,21 @@
 		<label>Create human</label>
 		<description>Create a fully-formed human from scratch by stitching together various body parts and organs.</description>
 		<jobString>Creating a human.</jobString>
-		<workAmount>32000</workAmount>
+		<workAmount>80000</workAmount>
 		<workSkillLearnFactor>2</workSkillLearnFactor>
 		<ingredients>
 			<li>
 				<filter>
 					<thingDefs>
 						<li>Meat_Human</li>
+					</thingDefs>
+				</filter>
+				<count>40</count>
+			</li>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>Leather_Human</li>
 					</thingDefs>
 				</filter>
 				<count>40</count>
@@ -134,6 +142,7 @@
 		<fixedIngredientFilter>
 			<thingDefs>
 				<li>Meat_Human</li>
+				<li>Leather_Human</li>
 				<li>Leg</li>
 				<li>Arm</li>
 				<li>Spine</li>
