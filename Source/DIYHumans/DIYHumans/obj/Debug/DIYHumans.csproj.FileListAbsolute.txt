@@ -1,4 +1,4 @@
 D:\Backups\RWBackups\Mods\DIY Humans\Assemblies\DIYHumans.dll
-D:\Backups\RWBackups\Mods\DIY Humans\Source\DIYHumans\DIYHumans\obj\Debug\DIYHumans.csprojAssemblyReference.cache
 D:\Backups\RWBackups\Mods\DIY Humans\Source\DIYHumans\DIYHumans\obj\Debug\DIYHumans.csproj.CoreCompileInputs.cache
 D:\Backups\RWBackups\Mods\DIY Humans\Source\DIYHumans\DIYHumans\obj\Debug\DIYHumans.dll
+D:\Backups\RWBackups\Mods\DIY Humans\Source\DIYHumans\DIYHumans\obj\Debug\DIYHumans.csprojAssemblyReference.cache
