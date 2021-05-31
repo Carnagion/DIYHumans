@@ -24,6 +24,9 @@
 			<li>Manufactured</li>
 		</thingCategories>
 		<comps>
+			<li>
+				<compClass>CompQuality</compClass>
+			</li>
 			<li Class="DIYHumans.CompProperties_CraftedPawn">
 				<pawnKindDef>DIYHumans_CraftedHuman</pawnKindDef>
 				<mentalStateChance>0.3</mentalStateChance>
