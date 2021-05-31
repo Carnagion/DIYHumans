@@ -31,7 +31,9 @@ Pawns can stitch together various body parts at a butcher table to "create" a hu
 
 The recipe requires a small amount of human meat and all the body parts found in a regular human, i.e. 2 eyes, 2 ears, a nose, a jaw, 2 arms, 2 legs, a heart, 2 lungs, 2 kidneys, a liver, a stomach, a spine, and a brain.
 
-The end result will be a fully-formed human, no different from any other "normal" humans. However, there is a possibility that the newly created human experiences an extreme mental break immediately. There is also a possibility of one or more infections on a random body part, depending on the medical skill of the creator.
+The end result will be a fully-formed human, no different from any other "normal" humans. Furthermore, the skills of the crafted human are multiplied by a value depending on the crafter's medical skill.
+
+However, there is a possibility that the newly created human experiences an extreme mental break immediately. There is also a possibility of one or more infections on a random body part, again depending on the medical skill of the creator.
 
 	MOD SUPPORT
 
@@ -45,6 +47,9 @@ DIY Humans adds new features and functionalities if certain mods are loaded:
 
 	- Children, School, and Learning
 	Crafted humans will not generate as newborns, but as full-fledged adults instead.
+		
+	- Rim of Madness - Bones
+	The recipe to create a human will require human bones.
 
 Note that these mods are not requirements or dependencies, they just activate additional features if loaded.
 
